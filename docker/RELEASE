@@ -1,0 +1,4 @@
+PACKAGECLOUD_REPO=stable
+RELEASE_PACKAGE=gitlab-ce
+RELEASE_VERSION=13.4.6-ce.0
+DOWNLOAD_URL=https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/focal/gitlab-ce_${RELEASE_VERSION}_arm64.deb/download.deb

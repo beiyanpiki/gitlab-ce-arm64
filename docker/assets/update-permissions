@@ -95,4 +95,3 @@ fi
 if id -u mattermost; then
     chown_if_exists -R mattermost /var/opt/gitlab/mattermost
 fi
-
