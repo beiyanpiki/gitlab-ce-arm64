@@ -1,6 +1,6 @@
 # gitlab-ce arm64
 
-> Dockerhub: [beiyanpiki/gitlab-ce](https://hub.docker.com/r/beiyanpiki/gitlab-ce)
+> Dockerhub: [beiyanpiki/gitlab-ce-arm64](https://hub.docker.com/r/beiyanpiki/gitlab-ce-arm64)
 
 ## usage
 
