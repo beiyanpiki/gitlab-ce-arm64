@@ -10,7 +10,7 @@ The latest docker guide can be found here: [GitLab Docker images](/doc/docker/RE
 
 ```yaml
 web:
-  image: 'gitlab/gitlab-ce:latest'
+  image: 'beiyanpiki/gitlab-ce-arm64:15.4.2-ce.0'
   restart: always
   hostname: 'gitlab.example.com'
   environment:
